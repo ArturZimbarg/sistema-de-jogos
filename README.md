@@ -4,5 +4,5 @@
 
 
 ```
-npm instal react
+node app.js
 ``` 
